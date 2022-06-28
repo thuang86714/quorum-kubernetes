@@ -15,7 +15,7 @@ aws:
   # the aws cli commands uses the name 'quorum-node-secrets-sa' so only change this if you altered the name
   serviceAccountName: quorum-node-secrets-sa
   # the region you are deploying to
-  region: us-east-1
+  region: ap-southeast-1
 
 azure:
   # the script/bootstrap.sh uses the name 'quorum-pod-identity' so only change this if you altered the name
